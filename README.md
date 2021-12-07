@@ -1,9 +1,11 @@
-# cwinpm
-Crayon Windows Package Manager - Install Pragrams and Packages in Windows with just a command
+# WIGA STUDIO - Website Code
+THIS CODE MAY BE FOUND DEPLOYED AT :
+- [https://wiga.studio ](https://wiga.studio) Official Website
+- [https://wigastudio.github.io](https://wigastudio.github.io) Backup Website / Github Pages
 
-## PRE ALPHA
-The peice of cake in not even in the oven, Assume I will release it as soon as it gets developed well
-Not getting much free time to do this
+Designed & Developed By [Wiz64](https://github.com/wiz64)
 
-#### IMAGES & SHOTS
-![Help Menu of CWINPM](helpscr.jpg?raw=true "CWINPM Help Menu")
+Support Us @ https://wigastudio.github.io/donate.html#donate
+
+We accept Cryptocurrencies & Real Cash
+#### THANKS FOR CHECKING OUT !
