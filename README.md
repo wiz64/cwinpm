@@ -1,5 +1,6 @@
 # cwinpm
-## STATUS : HALTED
+> STATUS : `In Development`
+
 Crayon Windows Package Manager - Install Pragrams and Packages in Windows with just a command
 
 ## PRE ALPHA
